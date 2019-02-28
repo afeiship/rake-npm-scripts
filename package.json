@@ -1,0 +1,17 @@
+{
+  "name": "rake-npm-scripts",
+  "version": "1.0.0",
+  "description": "Common npm scripts task.",
+  "main": "index.rake",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/afeiship/rake-npm-scripts.git"
+  },
+  "keywords": ["rake", "task"],
+  "author": "afei",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/afeiship/rake-npm-scripts/issues"
+  },
+  "homepage": "https://github.com/afeiship/rake-npm-scripts#readme"
+}
